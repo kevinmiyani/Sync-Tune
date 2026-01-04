@@ -136,11 +136,3 @@ The backend powers room orchestration: it tracks playlists, permissions, playbac
 - **Feature enhancements:** Add authenticated profiles, saved playlists, multi-room dashboards, track search/browse beyond YouTube playlists.
 - **Performance:** Debounce frequent playlist updates, batch socket emissions, and cache YouTube API responses.
 
-## CONTRIBUTION GUIDELINES
-- Fork the repository, create a descriptive branch (`feat/`, `fix/`, `chore/`), document changes, and open a PR.
-- Keep PRs focused, include screenshots/GIFs for UI work, and request reviews after lint/build passes.
-- Run linters/tests before merging; keep default branch clean and release-ready.
-
-## LICENSE
-TBD (e.g., MIT)
-
